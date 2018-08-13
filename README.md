@@ -29,3 +29,5 @@ https://threejs.org/docs/#api/core/Raycaster
 ```
 source info (raycaster code)
 https://github.com/aframevr/aframe/blob/8809e7fd5eccd4c4ce76892f4a5673b911dfd60f/src/components/raycaster.js
+
+- video controls https://github.com/oscarmarinmiro/aframe-video-controls
